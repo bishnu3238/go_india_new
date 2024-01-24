@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBRSu4iacYH4BCTbXDDQlLeNJ8rGyneScA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>762867458346</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.goindia.goIndia.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>go-india-aa686</string>
+	<key>STORAGE_BUCKET</key>
+	<string>go-india-aa686.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:762867458346:ios:ba2b4199fb2984f1d9be53</string>
+</dict>
+</plist>
